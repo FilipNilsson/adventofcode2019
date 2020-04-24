@@ -3,4 +3,4 @@ Advent of Code is a coding challenge that takes place every December where for e
 
 2019 me and some colleagues all took part of the challenge.
 
-See [Advent of Code's 2019 website](https://adventofcode.com/2019/about for more info) for more info.
+See [Advent of Code's 2019 website](https://adventofcode.com/2019/about) for more info.
